@@ -16,6 +16,6 @@ Indexer - builds a words dictionary. deletes duplicates, checks frequency, and s
 ranker - builds a dictionary of top song to the user. gets a string from the user, gives each word wight, calculates TF and DF values to the word, and find the cosine similarity.
 
 
-![image](https://github.com/IdanGad/information-retrieval/assets/87356458/4dbc6a96-1ade-4142-9ce1-eeceb74ced2f)
+
 
 
