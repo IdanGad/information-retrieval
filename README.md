@@ -3,14 +3,6 @@ Songs lyrics search engine
 
 Program purpose is to build a search engine where a user can write a string and recive the most relavent songs to it.
 
-Python classes that I used:  
-1. Selenium.webdriver, by, expected conditions – for accessing the web and handling exceptions.
-2. Nltk.stem import WordNetLemmatizer – to switch each word to its root.
-3. Openpyxl.Workbook, load_workbook, get_column_letter – working with excel.
-4. Numpy
-5. Math
-6. Sklearn.metrics.pairwise import cosine_similarity – to find distance between vectors.
-
 files explanation:
 Crawler first - donwloads a list of 10000 songs name from the web. 
 
